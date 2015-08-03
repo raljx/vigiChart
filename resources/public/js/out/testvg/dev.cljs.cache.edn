@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3308
+{:name testvg.dev, :doc nil, :excludes #{}, :use-macros nil, :require-macros {figwheel figwheel.client, figwheel.client figwheel.client}, :uses nil, :requires {core testvg.core, testvg.core testvg.core, figwheel figwheel.client, figwheel.client figwheel.client}, :imports nil, :cljs.analyzer/constants {:seen #{:jsload-callback :websocket-url}, :order [:websocket-url :jsload-callback]}}
